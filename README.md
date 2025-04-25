@@ -1,20 +1,34 @@
-# Airbnb Average Price Dashboard
+# 🏡 Airbnb Average Price Dashboard
 
-🔗 [View Dashboard](https://public.tableau.com/views/AirBnBAveragePriceProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau](https://img.shields.io/badge/Built%20with-Tableau-blue.svg)](https://www.tableau.com/)  
+🔗 [**View the Live Dashboard Here**](https://public.tableau.com/views/AirBnBAveragePriceProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Summary
-This Tableau dashboard explores the average Airbnb listing prices across different locations. It provides interactive tools to compare prices by region and listing type, helping users quickly identify trends and pricing differences.
+---
 
-## Skills Used
-- Data Cleaning
-- Data Visualization
-- Tableau Public
-- Dashboard Design
-- Interactive Filtering
+## 📊 Project Overview
 
-## Key Features
-- Interactive filters to explore by location and listing type
-- Dynamic average price comparisons
-- Clean and user-friendly layout for easy data exploration
+This interactive Tableau dashboard analyzes the **average Airbnb listing prices** across various locations.  
+It allows users to explore regional price trends and compare listing types using dynamic filters, helping uncover pricing patterns and opportunities.
 
-![Airbnb Dashboard Preview](screenshot.png)
+---
+
+## 🛠️ Skills & Tools Used
+- **Tableau Public** - Data Visualization
+- **Data Cleaning** - Preparation for visualization
+- **Dashboard Design** - User-focused interactivity and insights
+- **Exploratory Data Analysis (EDA)**
+
+---
+
+## 🚀 Key Features
+- 🔎 **Interactive Filters** – Slice data by location and listing type
+- 🧮 **Dynamic KPI Cards** – Displaying key price insights
+- 🌍 **Regional Breakdown** – Easy identification of price trends by region
+- 📈 **Clean Visual Layout** – Focused on accessibility and user experience
+
+---
+
+## 📸 Dashboard Preview
+![Airbnb Average Price Dashboard Preview](screenshot.png)
+
+---
